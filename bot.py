@@ -38,4 +38,4 @@ async def generate_tts(ctx, voice, *text):
     
 
 
-client.run("ODQ1MDUzNjg1NjE2NzM4Mzg1.GSEPlC._dudf3bCjWZxtA-mUFzK5bdoTMwzMM6XLE4J94")
+client.run("BOT TOKEN HERE")

@@ -1,0 +1,10 @@
+einops
+inflect
+librosa
+progressbar
+rotary_embedding_torch
+scipy
+tokenizers
+tqdm
+transformers
+unidecode

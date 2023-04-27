@@ -1,0 +1,16 @@
+tqdm
+rotary_embedding_torch
+transformers
+tokenizers
+inflect
+progressbar
+einops
+unidecode
+scipy
+librosa
+numba==0.48.0
+ffmpeg
+discord
+torch
+torchvision
+torchaudio
